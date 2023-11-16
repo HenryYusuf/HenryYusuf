@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry Baharudin Yusuf</h1>
-<h3 align="center">A passionate FullStack developer from Indonesia</h3>
+<h3 align="center">Decoding the Future: Crafting Digital Realities Through Lines of Code</h3>
 <img align="right" alt="Coding" width="300" src="https://s6.imgcdn.dev/RNDw9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="henryyusuf" /> </p>
